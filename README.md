@@ -10,11 +10,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:003F3F,60:006D6D,100:00D9C0&height=220&section=header&text=Mahesh%20Dongare&fontSize=72&fontColor=99F6E4&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Java%20Backend%20Engineer%20%C2%B7%20Web%20Developer&descAlignY=58&descSize=20&descColor=5EEAD4" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A3D62,60:006994,100:00D9FF&height=220&section=header&text=Mahesh%20Dongare&fontSize=72&fontColor=00D9FF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Java%20Backend%20Engineer%20%C2%B7%20Web%20Developer&descAlignY=58&descSize=20&descColor=7FDBFF" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00C9B1&center=true&vCenter=true&multiline=false&width=750&lines=Building+Scalable+Java+Backend+Applications+%E2%98%95;Java+%C2%B7+Spring+Boot+%C2%B7+SQL+%C2%B7+HTML+%C2%B7+CSS+%C2%B7+JavaScript;Full+Stack+Developer+%7C+GHRCEM+%7C+Pune+%F0%9F%87%AE%F0%9F%87%B3;Phone+Directory+%C2%B7+Student+Mgmt+%C2%B7+Expense+Tracker+%C2%B7+Atmosphera)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&lines=Building+Scalable+Java+Backend+Applications+%E2%98%95;Java+%C2%B7+Spring+Boot+%C2%B7+SQL+%C2%B7+HTML+%C2%B7+CSS+%C2%B7+JavaScript;Full+Stack+Developer+%7C+GHRCEM+%7C+Pune+%F0%9F%87%AE%F0%9F%87%B3;Phone+Directory+%C2%B7+Student+Mgmt+%C2%B7+Expense+Tracker+%C2%B7+Atmosphera)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,14 +26,14 @@
 
 <div align="center">
 
-![Location](https://img.shields.io/badge/📍_Pune,_Maharashtra_🇮🇳-0D1117?style=for-the-badge&labelColor=003F3F&color=00C9B1)
-![Education](https://img.shields.io/badge/🎓_B.Tech_·_GHRCEM-0D1117?style=for-the-badge&labelColor=003F3F&color=00C9B1)
-![Focus](https://img.shields.io/badge/☕_Java_Backend_Developer-0D1117?style=for-the-badge&labelColor=003F3F&color=00C9B1)
-![Stack](https://img.shields.io/badge/🌐_Full_Stack_Web_Development-0D1117?style=for-the-badge&labelColor=003F3F&color=00C9B1)
+![Location](https://img.shields.io/badge/📍_Pune,_Maharashtra_🇮🇳-0D1117?style=for-the-badge&labelColor=0A3D62&color=00D9FF)
+![Education](https://img.shields.io/badge/🎓_B.Tech_·_GHRCEM-0D1117?style=for-the-badge&labelColor=0A3D62&color=00D9FF)
+![Focus](https://img.shields.io/badge/☕_Java_Backend_Developer-0D1117?style=for-the-badge&labelColor=0A3D62&color=00D9FF)
+![Stack](https://img.shields.io/badge/🌐_Full_Stack_Web_Development-0D1117?style=for-the-badge&labelColor=0A3D62&color=00D9FF)
 
-![Currently](https://img.shields.io/badge/🔭_Currently-Full_Stack_Development_+_DSA-0D1117?style=for-the-badge&labelColor=006D6D&color=0891B2)
-![Ask Me](https://img.shields.io/badge/💬_Ask_me_about-Java_·_OOP_·_SQL_·_Web_Dev-0D1117?style=for-the-badge&labelColor=006D6D&color=0891B2)
-![Open To](https://img.shields.io/badge/🚀_Open_to-Java_%26_Full_Stack_Internships-0D1117?style=for-the-badge&labelColor=1A4731&color=10B981)
+![Currently](https://img.shields.io/badge/🔭_Currently-Full_Stack_Development_+_DSA-0D1117?style=for-the-badge&labelColor=006994&color=00BFFF)
+![Ask Me](https://img.shields.io/badge/💬_Ask_me_about-Java_·_OOP_·_SQL_·_Web_Dev-0D1117?style=for-the-badge&labelColor=006994&color=00BFFF)
+![Open To](https://img.shields.io/badge/🚀_Open_to-Java_%26_Full_Stack_Internships-0D1117?style=for-the-badge&labelColor=006400&color=00FF7F)
 
 </div>
 
@@ -121,7 +121,7 @@ spec:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Status](https://img.shields.io/badge/Status-🟢_Live-0D1117?style=for-the-badge&color=10B981)
+![Status](https://img.shields.io/badge/Status-🟢_Live-0D1117?style=for-the-badge&color=00FF7F)
 
 </td>
 <td width="50%" valign="top">
@@ -132,10 +132,10 @@ spec:
 ✨ **Highlights:** Object-Oriented Design, Java Collections Framework, CRUD operations, clean code structure.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Principles-0891B2?style=for-the-badge)
-![Collections](https://img.shields.io/badge/Collections_Framework-0E7490?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Principles-006994?style=for-the-badge)
+![Collections](https://img.shields.io/badge/Collections_Framework-0A3D62?style=for-the-badge)
 
-![Status](https://img.shields.io/badge/Status-🟢_Complete-0D1117?style=for-the-badge&color=10B981)
+![Status](https://img.shields.io/badge/Status-🟢_Complete-0D1117?style=for-the-badge&color=00FF7F)
 
 </td>
 </tr>
@@ -150,9 +150,9 @@ spec:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP_Design-0891B2?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP_Design-006994?style=for-the-badge)
 
-![Status](https://img.shields.io/badge/Status-🟢_Complete-0D1117?style=for-the-badge&color=10B981)
+![Status](https://img.shields.io/badge/Status-🟢_Complete-0D1117?style=for-the-badge&color=00FF7F)
 
 </td>
 <td width="50%" valign="top">
@@ -166,7 +166,7 @@ spec:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![Status](https://img.shields.io/badge/Status-🟢_Complete-0D1117?style=for-the-badge&color=10B981)
+![Status](https://img.shields.io/badge/Status-🟢_Complete-0D1117?style=for-the-badge&color=00FF7F)
 
 </td>
 </tr>
@@ -183,7 +183,7 @@ spec:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Status](https://img.shields.io/badge/Status-🟡_In_Progress-0D1117?style=for-the-badge&color=F59E0B)
+![Status](https://img.shields.io/badge/Status-🟡_In_Progress-0D1117?style=for-the-badge&color=FFD700)
 
 </td>
 <td width="50%" valign="top">
@@ -194,10 +194,10 @@ spec:
 ✨ **Highlights:** ArrayList, HashMap, LinkedList, TreeSet, Iterator patterns, practical problem solving.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures-0891B2?style=for-the-badge)
-![Collections](https://img.shields.io/badge/Collections_API-0E7490?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data_Structures-006994?style=for-the-badge)
+![Collections](https://img.shields.io/badge/Collections_API-0A3D62?style=for-the-badge)
 
-![Status](https://img.shields.io/badge/Status-🔵_Growing-0D1117?style=for-the-badge&color=3B82F6)
+![Status](https://img.shields.io/badge/Status-🔵_Growing-0D1117?style=for-the-badge&color=00BFFF)
 
 </td>
 </tr>
@@ -214,7 +214,7 @@ spec:
 ### ☕ Backend & Core Programming
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP_Principles-0891B2?style=for-the-badge&logo=java&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP_Principles-006994?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
@@ -232,8 +232,8 @@ spec:
 ### 🧠 Data Structures & Algorithms
 
 ![DSA](https://img.shields.io/badge/DSA_in_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Collections](https://img.shields.io/badge/Java_Collections-0891B2?style=for-the-badge&logo=java&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-10B981?style=for-the-badge)
+![Collections](https://img.shields.io/badge/Java_Collections-006994?style=for-the-badge&logo=java&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-00FF7F?style=for-the-badge)
 
 ### 🛠️ Dev Tools
 
@@ -254,16 +254,16 @@ spec:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaheshD8080&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00C9B1&icon_color=00C9B1&text_color=5EEAD4" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshD8080&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9B1&ring=00C9B1&fire=F59E0B&currStreakLabel=00C9B1&sideLabels=5EEAD4&dates=5EEAD4" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshD8080&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9B1&text_color=5EEAD4&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaheshD8080&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=7FDBFF" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshD8080&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6E00&currStreakLabel=00D9FF&sideLabels=7FDBFF&dates=7FDBFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshD8080&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=7FDBFF&langs_count=8" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshD8080&theme=tokyo-night&bg_color=0D1117&color=00C9B1&line=006D6D&point=00C9B1&area=true&hide_border=true&area_color=006D6D" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshD8080&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=006994&point=00D9FF&area=true&hide_border=true&area_color=006994" width="100%" />
 </div>
 
 ---
@@ -349,7 +349,7 @@ spec:
 
 <br/>
 
-[![Open to Internships](https://img.shields.io/badge/🚀_OPEN_TO_Java_%26_Full_Stack_Internship_Opportunities-10B981?style=for-the-badge&logoColor=white)](https://linkedin.com/in/mahesh-dongare)
+[![Open to Internships](https://img.shields.io/badge/🚀_OPEN_TO_Java_%26_Full_Stack_Internship_Opportunities-00C851?style=for-the-badge&logoColor=white)](https://linkedin.com/in/mahesh-dongare)
 
 </div>
 
@@ -361,8 +361,8 @@ spec:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MaheshD8080&style=for-the-badge&color=006D6D&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/MaheshD8080?style=for-the-badge&color=006D6D&logo=github&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=MaheshD8080&style=for-the-badge&color=006994&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/MaheshD8080?style=for-the-badge&color=006994&logo=github&label=FOLLOWERS)
 
 <br/>
 
@@ -370,7 +370,7 @@ spec:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9C0,30:006D6D,60:003F3F,100:0D1117&height=130&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,30:006994,60:0A3D62,100:0D1117&height=130&section=footer&animation=twinkling" width="100%" />
 
 </div>
 
