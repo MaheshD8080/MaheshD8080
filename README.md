@@ -1,103 +1,380 @@
-<h1 align="center">Hi 👋, I'm Mahesh Dongare</h1>
-<h3 align="center">Full Stack Developer | Java Backend Developer</h3>
+<!-- ████████████████████████████████████████████████████████████████████████████████
+     MAHESH DONGARE — GITHUB PROFILE README
+     Full Stack Developer · Java Backend Engineer · Web Developer
+     GHRCEM · Pune, Maharashtra, India
+     ████████████████████████████████████████████████████████████████████████████████ -->
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CINEMATIC HEADER                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=maheshdongare&label=Profile%20views&color=0e75b6&style=flat" alt="maheshdongare" /> 
-</p>
+<div align="center">
 
-- 🌱 I’m currently learning **Full Stack Development and Data Structures**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1A0533,60:3D1A78,100:8B5CF6&height=220&section=header&text=Mahesh%20Dongare&fontSize=72&fontColor=C4B5FD&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Java%20Backend%20Engineer%20%C2%B7%20Web%20Developer&descAlignY=58&descSize=20&descColor=A78BFA" width="100%" />
 
-- 💻 I like building **Java Backend Applications and Web Projects**
+<br/>
 
-- 💬 Ask me about **Java, OOP, SQL, Git, Web Development**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&width=750&lines=Building+Scalable+Java+Backend+Applications+%E2%98%95;Java+%C2%B7+Spring+Boot+%C2%B7+SQL+%C2%B7+HTML+%C2%B7+CSS+%C2%B7+JavaScript;Full+Stack+Developer+%7C+GHRCEM+%7C+Pune+%F0%9F%87%AE%F0%9F%87%B3;Phone+Directory+%C2%B7+Student+Mgmt+%C2%B7+Expense+Tracker+%C2%B7+Atmosphera)](https://git.io/typing-svg)
 
-- 📫 How to reach me **maheshdongare@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://github.com/YOURUSERNAME" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/YOURLINKEDIN" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-</p>
+</div>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  BADGES ROW                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="left"> 
+<div align="center">
 
-<a href="https://www.java.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
+![Location](https://img.shields.io/badge/📍_Pune,_Maharashtra_🇮🇳-0D1117?style=for-the-badge&labelColor=1A0533&color=8B5CF6)
+![Education](https://img.shields.io/badge/🎓_B.Tech_·_GHRCEM-0D1117?style=for-the-badge&labelColor=1A0533&color=8B5CF6)
+![Focus](https://img.shields.io/badge/☕_Java_Backend_Developer-0D1117?style=for-the-badge&labelColor=1A0533&color=8B5CF6)
+![Stack](https://img.shields.io/badge/🌐_Full_Stack_Web_Development-0D1117?style=for-the-badge&labelColor=1A0533&color=8B5CF6)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
+![Currently](https://img.shields.io/badge/🔭_Currently-Full_Stack_Development_+_DSA-0D1117?style=for-the-badge&labelColor=3D1A78&color=7C3AED)
+![Ask Me](https://img.shields.io/badge/💬_Ask_me_about-Java_·_OOP_·_SQL_·_Web_Dev-0D1117?style=for-the-badge&labelColor=3D1A78&color=7C3AED)
+![Open To](https://img.shields.io/badge/🚀_Open_to-Java_%26_Full_Stack_Internships-0D1117?style=for-the-badge&labelColor=1A4731&color=10B981)
 
-<a href="https://www.w3.org/html/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<h3 align="left">Projects:</h3>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               ABOUT ME — YAML TERMINAL                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-- 📱 **Phone Directory System (Java)**
-- 📋 **Task Management System (PHP)**
-- 📚 **Java Collection Framework Programs**
-- 💻 **Student Management System (Java)**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> `whoami`
+
+```yaml
+apiVersion: developer.io/v1
+kind: FullStackDeveloper
+
+metadata:
+  name: mahesh-dongare
+  alias: "The Java Craftsman"
+  github: "https://github.com/MaheshD8080"
+
+spec:
+  role: "Full Stack Developer | Java Backend Engineer"
+  location: "Wagholi, Pune, Maharashtra, India 🇮🇳"
+  college: "GH Raisoni College of Engineering & Management (GHRCEM)"
+  degree: "B.Tech"
+
+  currently_building:
+    - "Atmosphera          — Weather & environment web app (HTML/CSS/JS)"
+    - "Expense Tracker     — Personal finance management system"
+    - "Student Mgmt System — CRUD-based Java backend application"
+    - "Phone Directory     — Java console application with OOP principles"
+
+  currently_learning:
+    - "Full Stack Development (Java + Spring Boot + React)"
+    - "Data Structures & Algorithms in Java"
+    - "Database Design with MySQL"
+    - "REST API Development"
+
+  core_philosophy: >
+    "Clean code is not written by following a set of rules.
+     You know you are working on clean code when each routine
+     you read turns out to be pretty much what you expected."
+
+  superpower: >
+    Turning real-world problems into clean, maintainable Java applications —
+    from console apps to full-stack web systems with proper OOP design.
+
+  tech_stack:
+    primary_language: "Java ☕"
+    backend: ["Java", "Spring Boot", "OOP", "Collections Framework"]
+    frontend: ["HTML5", "CSS3", "JavaScript"]
+    database: ["MySQL", "SQL"]
+    tools: ["Git", "GitHub", "VS Code", "IntelliJ IDEA"]
+
+  projects:
+    - "Atmosphera           → Weather Web App (HTML/CSS/JS)"
+    - "Phone Directory      → Java OOP Console App"
+    - "Student Mgmt System  → Java Backend CRUD App"
+    - "Task Mgmt System     → PHP Web App"
+    - "Expense Tracker      → Finance Tracking App"
+
+  fun_fact: >
+    I debug Java code so naturally that NullPointerExceptions feel
+    like friendly reminders, not errors. ☕🐛
+```
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            FLAGSHIP PROJECTS — CINEMATIC CARDS            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Projects Showcase
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOURUSERNAME&show_icons=true&locale=en&layout=compact" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</p>
+### 🌦️ [Atmosphera](https://github.com/MaheshD8080/Atmosphera)
+> A weather & atmosphere themed **web application** built with clean HTML, CSS, and JavaScript — responsive UI with smooth design.
 
-<p>
+✨ **Highlights:** Responsive layout, clean UI design, browser-native JavaScript, CSS animations.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&locale=en" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</p>
+![Status](https://img.shields.io/badge/Status-🟢_Live-0D1117?style=for-the-badge&color=10B981)
 
-<p>
+</td>
+<td width="50%" valign="top">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME" />
+### 📱 Phone Directory System (Java)
+> A **Java console application** implementing real-world phone directory operations — add, search, delete, and display contacts using OOP & Collections.
 
-</p>
+✨ **Highlights:** Object-Oriented Design, Java Collections Framework, CRUD operations, clean code structure.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Principles-8B5CF6?style=for-the-badge)
+![Collections](https://img.shields.io/badge/Collections_Framework-7C3AED?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-🟢_Complete-0D1117?style=for-the-badge&color=10B981)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Student Management System (Java)
+> A **backend Java application** for managing student records — full CRUD operations with structured data handling and clean OOP architecture.
+
+✨ **Highlights:** CRUD operations, data persistence logic, Java class design, input validation.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP_Design-8B5CF6?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-🟢_Complete-0D1117?style=for-the-badge&color=10B981)
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 Task Management System (PHP)
+> A **web-based task manager** built with PHP — create, update, delete, and track tasks through a browser interface backed by a database.
+
+✨ **Highlights:** PHP backend logic, MySQL integration, web CRUD operations, form handling.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-🟢_Complete-0D1117?style=for-the-badge&color=10B981)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💸 [Expense Tracker](https://github.com/MaheshD8080/Expense-)
+> A **personal finance tracking application** to record, categorize, and analyze daily expenses — built with web technologies.
+
+✨ **Highlights:** Expense categorization, dynamic UI, data display logic, clean HTML/CSS layout.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Status](https://img.shields.io/badge/Status-🟡_In_Progress-0D1117?style=for-the-badge&color=F59E0B)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Java Collections Framework Programs
+> A **curated repository of Java programs** demonstrating List, Set, Map, Queue, Iterator — every data structure in the Collections API, implemented with real use cases.
+
+✨ **Highlights:** ArrayList, HashMap, LinkedList, TreeSet, Iterator patterns, practical problem solving.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures-8B5CF6?style=for-the-badge)
+![Collections](https://img.shields.io/badge/Collections_API-7C3AED?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-🔵_Growing-0D1117?style=for-the-badge&color=3B82F6)
+
+</td>
+</tr>
+</table>
 
 ---
 
-⭐ **"Always learning new technologies and building useful projects."**
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              TECH STACK — SKILLS GALAXY                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🛸 Tech Stack — Skills Galaxy
+
+### ☕ Backend & Core Programming
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP_Principles-8B5CF6?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🌐 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧠 Data Structures & Algorithms
+
+![DSA](https://img.shields.io/badge/DSA_in_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Collections](https://img.shields.io/badge/Java_Collections-8B5CF6?style=for-the-badge&logo=java&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-10B981?style=for-the-badge)
+
+### 🛠️ Dev Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              GITHUB STATS TRIFECTA                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📡 GitHub Intelligence Dashboard
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaheshD8080&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=A78BFA" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshD8080&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=A78BFA&dates=A78BFA" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshD8080&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=A78BFA&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshD8080&theme=tokyo-night&bg_color=0D1117&color=8B5CF6&line=3D1A78&point=8B5CF6&area=true&hide_border=true&area_color=3D1A78" width="100%" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--          LEARNING ROADMAP                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🗺️ Learning Roadmap
+
+```
+ Java Learning Path ──────────────────────────────────────────────────────────────────
+ 
+  Core Java & OOP              ██████████████████████████████  ✅ 100% Strong Foundation
+  Java Collections Framework   ████████████████████████░░░░░░  🔄  80% Practicing Daily
+  Data Structures & Algorithms ████████████████░░░░░░░░░░░░░░  🔄  55% In Progress
+  MySQL & Database Design      ██████████████████░░░░░░░░░░░░  🔄  60% In Progress
+  Spring Boot (Backend APIs)   █████████░░░░░░░░░░░░░░░░░░░░░  🔄  30% Learning
+  React.js (Frontend)          ██████░░░░░░░░░░░░░░░░░░░░░░░░  🔄  20% Starting
+  Full Stack Integration       ████░░░░░░░░░░░░░░░░░░░░░░░░░░  🎯  Goal: End of 2025
+  
+ ────────────────────────────────────────────────────────────────────────────────────
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--          CONTRIBUTION SNAKE 🐍                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution DNA
+
+<div align="center">
+
+<img src="https://github.com/MaheshD8080/MaheshD8080/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+
+</div>
+
+<!--
+╔══════════════════════════════════════════════════════════════════╗
+║  SNAKE SETUP — Add this file to enable the contribution snake   ║
+║  Create: .github/workflows/snake.yml                            ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  name: Generate Snake Animation                                  ║
+║  on:                                                             ║
+║    schedule:                                                     ║
+║      - cron: "0 */24 * * *"                                     ║
+║    workflow_dispatch:                                            ║
+║  jobs:                                                           ║
+║    generate:                                                     ║
+║      runs-on: ubuntu-latest                                      ║
+║      steps:                                                      ║
+║        - uses: Platane/snk@v3                                    ║
+║          with:                                                   ║
+║            github_user_name: MaheshD8080                        ║
+║            outputs: |                                            ║
+║              dist/github-contribution-grid-snake.svg            ║
+║              dist/github-contribution-grid-snake-dark.svg       ║
+║              ?palette=github-dark                               ║
+║        - uses: crazy-max/ghaction-github-pages@v3               ║
+║          with:                                                   ║
+║            target_branch: output                                 ║
+║            build_dir: dist                                       ║
+║          env:                                                    ║
+║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}            ║
+╚══════════════════════════════════════════════════════════════════╝
+-->
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--          CONNECT WITH ME — SOCIAL DOCK                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-dongare)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaheshD8080)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshdongare@gmail.com)
+
+<br/>
+
+[![Open to Internships](https://img.shields.io/badge/🚀_OPEN_TO_Java_%26_Full_Stack_Internship_Opportunities-10B981?style=for-the-badge&logoColor=white)](https://linkedin.com/in/mahesh-dongare)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       FOOTER                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=MaheshD8080&style=for-the-badge&color=3D1A78&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/MaheshD8080?style=for-the-badge&color=3D1A78&logo=github&label=FOLLOWERS)
+
+<br/>
+
+*"First, solve the problem. Then, write the code." — John Johnson ☕*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,30:3D1A78,60:1A0533,100:0D1117&height=130&section=footer&animation=twinkling" width="100%" />
+
+</div>
+
+<!-- ████████████████████████████████████████████████████████████████████████████████
+     END OF README — Built for Mahesh Dongare
+     GitHub: MaheshD8080 | Pune, Maharashtra, India
+     ████████████████████████████████████████████████████████████████████████████████ -->
